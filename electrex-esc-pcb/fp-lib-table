@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "electrex-esc-pcb-lib")(type "KiCad")(uri "${KIPRJMOD}/electrex-esc-pcb-lib/electrex-esc-pcb-lib.pretty")(options "")(descr ""))
+)

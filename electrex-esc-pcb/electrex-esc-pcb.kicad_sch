@@ -1,0 +1,279 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "41fc9dda-036a-436a-a0dc-f59c6d1950bc")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 41.91 76.2)
+		(size 44.45 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "27b7c0d3-849c-428c-8f84-8c8272280c16")
+		(property "Sheetname" "Buck Converter"
+			(at 41.91 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "buck_converter.kicad_sch"
+			(at 41.91 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "electrex-esc-pcb"
+				(path "/41fc9dda-036a-436a-a0dc-f59c6d1950bc"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 76.2)
+		(size 45.72 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "27db10c3-da37-40d1-8d51-4b685e8c0dd1")
+		(property "Sheetname" "HV Connectors"
+			(at 101.6 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "hv_connectors.kicad_sch"
+			(at 101.6 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "electrex-esc-pcb"
+				(path "/41fc9dda-036a-436a-a0dc-f59c6d1950bc"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 46.99)
+		(size 44.45 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "785155a8-d679-4d09-bcc1-06431e75980e")
+		(property "Sheetname" "MCU"
+			(at 41.91 46.2784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 41.91 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "electrex-esc-pcb"
+				(path "/41fc9dda-036a-436a-a0dc-f59c6d1950bc"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 106.68)
+		(size 44.45 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "79e10378-c28d-4d38-821c-bce023bef807")
+		(property "Sheetname" "Motor Driver"
+			(at 41.91 105.9684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "driver.kicad_sch"
+			(at 41.91 126.3146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "electrex-esc-pcb"
+				(path "/41fc9dda-036a-436a-a0dc-f59c6d1950bc"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 104.14 106.68)
+		(size 43.18 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "97c1d188-f963-41c9-8429-eb8583c74e73")
+		(property "Sheetname" "LV Connectors"
+			(at 104.14 105.9684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "lv_connectors.kicad_sch"
+			(at 104.14 125.0446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "electrex-esc-pcb"
+				(path "/41fc9dda-036a-436a-a0dc-f59c6d1950bc"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.87 48.26)
+		(size 45.72 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9dea58ee-15a0-4545-988c-48706be06561")
+		(property "Sheetname" "Current Sense"
+			(at 102.87 47.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "current_sense.kicad_sch"
+			(at 102.87 65.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "electrex-esc-pcb"
+				(path "/41fc9dda-036a-436a-a0dc-f59c6d1950bc"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 135.89)
+		(size 44.45 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d312347a-5e89-48b1-a30d-e24a30678597")
+		(property "Sheetname" "Half-Bridge"
+			(at 41.91 135.1784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "half_bridge.kicad_sch"
+			(at 41.91 155.5246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "electrex-esc-pcb"
+				(path "/41fc9dda-036a-436a-a0dc-f59c6d1950bc"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
